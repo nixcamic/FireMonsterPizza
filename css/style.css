@@ -7477,6 +7477,10 @@ h1, h2, h3, h4, h5,
     text-align: center;
     color: #fac564;
     letter-spacing: 4px; }
+  .navbar-brand logotext {
+      font-size: 24px;
+      color: #fac564;
+      font-family: 'Almendra SC', serif; }
 
 .owl-carousel {
   position: relative; }
