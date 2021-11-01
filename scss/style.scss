@@ -620,7 +620,7 @@ h1, h2, h3, h4, h5,
 		}
 		.social{
 			width: 35%;
-			background: $primary;
+			background: $black;
 			@include media-breakpoint-down(sm){
 				width: 100%;
 			}
